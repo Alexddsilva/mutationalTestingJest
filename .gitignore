@@ -1,0 +1,7 @@
+coverage/
+node_modules/
+reports/
+
+# stryker temp files
+.stryker-tmp
+stryker.log
